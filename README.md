@@ -1,6 +1,6 @@
 GoodbyeDPI — Deep Packet Inspection circumvention utility
 =========================
-br 1
+br 1 (2-nd change)
 This software designed to bypass Deep Packet Inspection systems found in many Internet Service Providers which block access to certain websites.
 
 It handles DPI connected using optical splitter or port mirroring (**Passive DPI**) which do not block any data but just replying faster than requested destination, and **Active DPI** connected in sequence.
